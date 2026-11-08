@@ -37,4 +37,3 @@ jobs:
         with:
           name: SignBridge-CYBER-APK
           path: bin/*.apk
-          
